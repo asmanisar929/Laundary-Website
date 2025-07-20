@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Laundary-Website/static/css/main.105073c5.css",
-    "main.js": "/Laundary-Website/static/js/main.dc6a3ef7.js",
+    "main.js": "/Laundary-Website/static/js/main.626df2fb.js",
     "static/media/10008.png": "/Laundary-Website/static/media/10008.12b653e86e1404d6bdff.png",
     "static/media/10019.png": "/Laundary-Website/static/media/10019.e3e7d1c60079ed5784ac.png",
     "index.html": "/Laundary-Website/index.html",
     "main.105073c5.css.map": "/Laundary-Website/static/css/main.105073c5.css.map",
-    "main.dc6a3ef7.js.map": "/Laundary-Website/static/js/main.dc6a3ef7.js.map"
+    "main.626df2fb.js.map": "/Laundary-Website/static/js/main.626df2fb.js.map"
   },
   "entrypoints": [
     "static/css/main.105073c5.css",
-    "static/js/main.dc6a3ef7.js"
+    "static/js/main.626df2fb.js"
   ]
 }
